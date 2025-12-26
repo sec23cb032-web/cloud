@@ -1,1 +1,1 @@
-# cloud
+print("Hello World")
